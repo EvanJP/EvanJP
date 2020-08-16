@@ -1,16 +1,14 @@
-### Hi there 👋
+### Welcome to Evan's Repos! 👋
+- 🔭 I’m currently working on:
+    - My personal website 
+    - Job hunting
+    - ICU4X 
+- 🌱 I’m currently learning:
+    - Music production
+    - Accessibility problems
+- 👯 I’m looking to collaborate on:
+    - Accessibility related projects
+    - NLP related projects
+- ⚡ Fun fact:
+    - I speak 3 languages fluently (English, Mandarin, and French), and am working on 2 or 3 more (Korean, Japanese, and kinda not really Italian)
 
-<!--
-**EvanJP/EvanJP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
