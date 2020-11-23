@@ -1,8 +1,6 @@
 ### Welcome to Evan's Repos! 👋
 - 🔭 I’m currently working on:
-    - My personal website 
-    - Job hunting
-    - ICU4X 
+    - Graduating :c
 - 🌱 I’m currently learning:
     - Music production
     - Accessibility problems
