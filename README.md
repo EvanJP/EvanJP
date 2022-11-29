@@ -1,12 +1,13 @@
 ### Welcome to Evan's Repos! 👋
 - 🔭 I’m currently working on:
-    - Graduating :c
+    - YouTube Music Understanding, researching ML models and building pipelines to serve various music attributes.
 - 🌱 I’m currently learning:
-    - Music production
-    - Accessibility problems
+    - Cooking
+    - Jiu-Jitsu
 - 👯 I’m looking to collaborate on:
     - Accessibility related projects
     - NLP related projects
+    - Anything interesting
 - ⚡ Fun fact:
-    - I speak 3 languages fluently (English, Mandarin, and French), and am working on 2 or 3 more (Korean, Japanese, and kinda not really Italian)
+    - I speak 3 languages (English, Mandarin, and French).
 
