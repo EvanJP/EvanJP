@@ -7,4 +7,5 @@
 - Building Web Apps in Rust
     - Building out a [Newsletter API](https://github.com/EvanJP/newsletter) based on [this book](https://www.zero2prod.com/index.html?country_code=US).
 ### I Worked On:
-- [`ICU4X`](https://github.com/unicode-org/icu4x), building out the ICU library in Rust, for support on resource constrained environmnets.
+- [`ICU4X`](https://github.com/unicode-org/icu4x) at Google, building out the ICU library in Rust, for support on resource constrained environmnets.
+- Audio Diagnostics at Apple, researching ML techniques on identifying and resolving audio issues in iOS.
